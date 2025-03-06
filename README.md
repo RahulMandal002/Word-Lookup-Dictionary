@@ -86,9 +86,9 @@ Word_Lookup_Dictionary/
 
 ---
 ## ScreenShot  
-**Running Project Screen Shot**
-![Word Lookup Dictionary Screenshot](screenshot1.png)
-![Word Lookup Dictionary Screenshot](screenshot2.png)
+**Running Project Screen Shot**  
+![Word Lookup Dictionary Screenshot1](screenshot1.png)
+![Word Lookup Dictionary Screenshot2](screenshot2.png)
 
 ---
 ## Key Achievements
