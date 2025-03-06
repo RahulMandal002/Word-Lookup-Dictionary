@@ -1,9 +1,6 @@
 # 📜 Word Lookup Dictionary  
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![Trie](https://img.shields.io/badge/Data%20Structure-Trie-green)  
-![Edit Distance](https://img.shields.io/badge/Algorithm-Edit%20Distance-orange)  
-![Web Scraping](https://img.shields.io/badge/Feature-Web%20Scraping-yellowgreen)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Trie](https://img.shields.io/badge/Data%20Structure-Trie-green) ![Edit Distance](https://img.shields.io/badge/Algorithm-Edit%20Distance-orange) ![Web Scraping](https://img.shields.io/badge/Feature-Web%20Scraping-yellowgreen)  
 
 ## 🔍 Overview  
 A **desktop-based dictionary application** for efficient English word lookup, spelling correction, and auto-suggestions. Built using advanced data structures and algorithms, this project demonstrates strong problem-solving skills and software development expertise.
@@ -87,8 +84,8 @@ Word_Lookup_Dictionary/
 ---
 ## ScreenShot  
 **Running Project Screen Shot**  
-![Word Lookup Dictionary Screenshot1](screenshot1.png)
-![Word Lookup Dictionary Screenshot2](screenshot2.png)
+![Word Lookup Dictionary Screenshot1](screenshot1.PNG)
+![Word Lookup Dictionary Screenshot2](screenshot2.PNG)
 
 ---
 ## Key Achievements
