@@ -1,0 +1,11 @@
+apple
+banana
+cherry
+dog
+elephant
+fruit
+grape
+hello
+internet
+jungle
+Exempt
